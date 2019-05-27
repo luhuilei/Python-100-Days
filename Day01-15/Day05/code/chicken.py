@@ -8,6 +8,9 @@ Author: 骆昊
 Date: 2018-03-02
 """
 
+
+
+
 for x in range(0, 20):
     for y in range(0, 33):
         z = 100 - x - y
