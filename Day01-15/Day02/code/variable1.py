@@ -15,3 +15,4 @@ print(a / b)
 print(a // b)
 print(a % b)
 print(a ** b)
+# todo: test the  todo fun
