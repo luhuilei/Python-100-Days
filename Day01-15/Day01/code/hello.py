@@ -7,6 +7,7 @@ Author: 骆昊
 Date: 2018-02-26
 
 请将该文件命名为hello.py并在终端中通过下面的命令运行它
+第一个PYTHON程序
 python hello.py
 """
 
@@ -15,3 +16,5 @@ print('hello, world!')
 print('你好', '世界')
 print('hello', 'world', sep=', ', end='!')
 print('goodbye, world', end='!\n')
+
+# todo:增加打印语句
